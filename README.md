@@ -118,7 +118,7 @@
     <td>1+ Years</td>
   </tr>
   <tr>
-    <td><img src="assets/design-tools/figma.svg" alt="" width="24" height="24" /></td>
+    <td><img src="assets/design-software/figma.svg" alt="" width="24" height="24" /></td>
     <td>Figma [SVG Icons]</td>
     <td>5 Months</td>
   </tr>
@@ -171,31 +171,43 @@
     <th>Usage</th>
   </tr>
   <tr>
-    <td><img src="assets/design-tools/after-effects.svg" alt="" width="24" height="24" /></td>
+    <td><img src="assets/design-software/aftereffects.svg" alt="" width="24" height="24" /></td>
     <td>After Effects</td>
     <td>Video Editing & Animations</td>
     <td>5 Months</td>
   </tr>
   <tr>
-    <td><img src="assets/design-tools/illustrator.svg" alt="" width="24" height="24" /></td>
+    <td><img src="assets/design-software/premierepro.svg" alt="" width="24" height="24" /></td>
+    <td>Premiere Pro</td>
+    <td>Video Editing</td>
+    <td>6 Months</td>
+  </tr>
+  <tr>
+    <td><img src="assets/design-software/illustrator.svg" alt="" width="24" height="24" /></td>
     <td>Illustrator</td>
     <td>Drawing & Vectorial Design</td>
     <td>8 Months</td>
   </tr>
   <tr>
-    <td><img src="assets/design-tools/blender.svg" alt="" width="24" height="24" /></td>
+    <td><img src="assets/design-software/blender.svg" alt="" width="24" height="24" /></td>
     <td>Blender</td>
     <td>3D Modeling & Object recreation</td>
     <td>6 Months</td>
   </tr>
   <tr>
-    <td><img src="assets/design-tools/photoshop.svg" alt="" width="24" height="24" /></td>
+    <td><img src="assets/design-software/photoshop.svg" alt="" width="24" height="24" /></td>
     <td>Photoshop</td>
     <td>Image editing</td>
     <td>4 Months</td>
   </tr>
   <tr>
-    <td><img src="assets/design-tools/.svg" alt="" width="24" height="24" /></td>
+    <td><img src="assets/design-software/davinciresolve.svg" alt="" width="24" height="24" /></td>
+    <td>DaVinci Resolve</td>
+    <td>Video Editing</td>
+    <td>8 Months</td>
+  </tr>
+  <tr>
+    <td><img src="assets/design-software/figma.svg" alt="" width="24" height="24" /></td>
     <td>Figma</td>
     <td>Creating & Editing SVG</td>
     <td>5 Months</td>
