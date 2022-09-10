@@ -155,7 +155,7 @@
   </tr>
   <tr>
     <td><img src="assets/text-editors/vim.svg" alt="" width="24" height="24" /></td>
-    <td>Jetbrains IntelliJ</td>
+    <td>Vim</td>
     <td>1 Year</td>
   </tr>
 </table>
