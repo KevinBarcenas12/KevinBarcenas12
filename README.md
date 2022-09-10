@@ -1,4 +1,4 @@
-<h1>Hi! I'm <a href="https://kevinbarcenas12.github.io">Kevin</a>!</h1>
+<h1>Hi! I'm <b>Kevin</b>!</h1>
 
 <h3>I'm a <i>Front-End Web Developer</i></h3>
 <p>
@@ -120,7 +120,7 @@
   <tr>
     <td><img src="assets/design-tools/figma.svg" alt="" width="24" height="24" /></td>
     <td>Figma [SVG Icons]</td>
-    <td>1 Year</td>
+    <td>5 Months</td>
   </tr>
 </table>
 
@@ -161,18 +161,44 @@
 </table>
 
 <br />
-<p>And the text editors / IDEs that I've used</p>
+<p>Some Design Software I've used</p>
 
 <table>
   <tr>
     <th></th>
     <th>Design Software</th>
+    <th>Work</th>
     <th>Usage</th>
   </tr>
   <tr>
-    <td><img src="assets/text-editors/vscode.svg" alt="" width="24" height="24" /></td>
-    <td>Visual Studio Code</td>
-    <td>4 Years</td>
+    <td><img src="assets/design-tools/after-effects.svg" alt="" width="24" height="24" /></td>
+    <td>After Effects</td>
+    <td>Video Editing & Animations</td>
+    <td>5 Months</td>
+  </tr>
+  <tr>
+    <td><img src="assets/design-tools/illustrator.svg" alt="" width="24" height="24" /></td>
+    <td>Illustrator</td>
+    <td>Drawing & Vectorial Design</td>
+    <td>8 Months</td>
+  </tr>
+  <tr>
+    <td><img src="assets/design-tools/blender.svg" alt="" width="24" height="24" /></td>
+    <td>Blender</td>
+    <td>3D Modeling & Object recreation</td>
+    <td>6 Months</td>
+  </tr>
+  <tr>
+    <td><img src="assets/design-tools/photoshop.svg" alt="" width="24" height="24" /></td>
+    <td>Photoshop</td>
+    <td>Image editing</td>
+    <td>4 Months</td>
+  </tr>
+  <tr>
+    <td><img src="assets/design-tools/.svg" alt="" width="24" height="24" /></td>
+    <td>Figma</td>
+    <td>Creating & Editing SVG</td>
+    <td>5 Months</td>
   </tr>
 </table>
 </p>
