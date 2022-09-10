@@ -1,22 +1,34 @@
-<h1>Hi! I'm <a href="https://kevinbarcenas12.github.io">Kevin</a></h1>
+<h1>Hi! I'm <a href="https://kevinbarcenas12.github.io">Kevin</a>!</h1>
 
 <h3>I'm a <i>Front-End Web Developer</i></h3>
 <p>
-  I'm interested on becoming <i>Full-Stack Web Developer</i>, but at the moment I've specialized in Front-End with a decent knowledge about Back-End and server-side programming.
+  My goal is to become a <i>Full-Stack Web Developer</i>.
+  <br />
+  At the time beeing, I'm a <i>Front-End</i> developer, but I like to learn new techniques, to use new programming languages and try new things.
+  <br />
+  I have a decent knowledge about <i>Back-End</i> and <i>Server-side</i> programming, and I would like to learn more about.
 </p>
 <p>
-  I'm also interested in Graphic Design, and I started using software like Photoshop, Illustrator, video editing on Premiere Pro, After Effects.
+  I'm also interested in Graphic Design.
+  <br />
+  A while ago, I started using software like Photoshop, Illustrator.
+  <br />
+  Video editing on Premiere Pro, After Effects, Sony Vegas.
 </p>
 
-<h3>Some of the <i>(</i>tools<i>/</i>techs<i>)</i> I use</h3>
-Since I jumped into programming, I've learned basic/intermediate usage of a couple languages, using different IDEs.
-Here are some of them:
+<h3>Some of the <mark>a</mark> tools <i> // </i> techs <i><b>)</b></i> I use</h3>
+<p>
+  Since I jumped into programming, I've learned a bit from a couple languages.
+  <br />
+  Here are some of them:
+</p>
 
+<p align="left">
 <table>
   <tr>
     <th />
-    <th><i>Tool || Tech</i></th>
-    <th><i>Years of usage</i></th>
+    <th><i>Languages</i></th>
+    <th><i>Usage</i></th>
   </tr>
   <tr>
     <td><img src="assets/languages/javascript.svg" alt="" width="24" height="24" /></td>
@@ -24,14 +36,9 @@ Here are some of them:
     <td>4 Years</td>
   </tr>
   <tr>
-    <td><img src="assets/languages/.svg" alt="" width="24" height="24" /></td>
+    <td><img src="assets/languages/typescript.svg" alt="" width="24" height="24" /></td>
     <td>Typescript [Advanced]</td>
-    <td>2 Years</td>
-  </tr>
-  <tr>
-    <td><img src="assets/styles/css3.svg" alt="" width="24" height="24" /></td>
-    <td>CSS3 [Advanced]</td>
-    <td>4 Years</td>
+    <td>2+ Years</td>
   </tr>
   <tr>
     <td><img src="assets/languages/html5.svg" alt="" width="24" height="24" /></td>
@@ -44,9 +51,9 @@ Here are some of them:
     <td>3+ Years</td>
   </tr>
   <tr>
-    <td><img src="assets/languages/.svg" alt="" width="24" height="24" /></td>
-    <td>NodeJS [Intermediate]</td>
-    <td>3+ Years</td>
+    <td><img src="assets/nodejs.svg" alt="" width="24" height="24" /></td>
+    <td>NodeJS [Basic/Intermediate]</td>
+    <td>3 Years</td>
   </tr>
   <tr>
     <td><img src="assets/languages/java.svg" alt="" width="24" height="24" /></td>
@@ -59,26 +66,25 @@ Here are some of them:
     <td>1 Year</td>
   </tr>
   <tr>
-    <td><img src="assets/languages/.svg" alt="" width="24" height="24" /></td>
-    <td> []</td>
-    <td> Years</td>
+    <td><img src="assets/languages/bash-scripting.svg" alt="" width="24" height="24" /></td>
+    <td>Bash Scripting [Basic]</td>
+    <td>5 Months</td>
   </tr>
 </table>
 
-<p>
-  Some of the databases I've used since I started are:
-</p>
+<br />
+<p>Here are databases that i used to work with</p>
 
 <table>
   <tr>
     <th></th>
     <th>Database</th>
-    <th>Time used</th>
+    <th>Usage</th>
   </tr>
   <tr>
     <td><img src="assets/databases/microsoftsqlserver.svg" alt="" width="24" height="24" /></td>
     <td>Microsoft SQL Server [Basic/Intermediate]</td>
-    <td>6 Months</td>
+    <td>5 Months</td>
   </tr>
   <tr>
     <td><img src="assets/databases/mongodb.svg" alt="" width="24" height="24" /></td>
@@ -87,7 +93,88 @@ Here are some of them:
   </tr>
 </table>
 
-<!---
-KevinBarcenas12/KevinBarcenas12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br />
+<p>Some of the tools that I use to style a Website</p>
+
+<table>
+  <tr>
+    <th></th>
+    <th>Styling tools</th>
+    <th>Usage</th>
+  </tr>
+  <tr>
+    <td><img src="assets/styles/css3.svg" alt="" width="24" height="24" /></td>
+    <td>CSS3 [Advanced]</td>
+    <td>4 Years</td>
+  </tr>
+  <tr>
+    <td><img src="assets/styles/sass.svg" alt="" width="24" height="24" /></td>
+    <td>Sass [Advanced]</td>
+    <td>2+ Years</td>
+  </tr>
+  <tr>
+    <td><img src="assets/styles/less.svg" alt="" width="24" height="24" /></td>
+    <td>Less [Intermediate]</td>
+    <td>1+ Years</td>
+  </tr>
+  <tr>
+    <td><img src="assets/design-tools/figma.svg" alt="" width="24" height="24" /></td>
+    <td>Figma [SVG Icons]</td>
+    <td>1 Year</td>
+  </tr>
+</table>
+
+<br />
+<p>And the text editors / IDEs that I've used</p>
+
+<table>
+  <tr>
+    <th></th>
+    <th>IDEs / Text Editors</th>
+    <th>Usage</th>
+  </tr>
+  <tr>
+    <td><img src="assets/text-editors/vscode.svg" alt="" width="24" height="24" /></td>
+    <td>Visual Studio Code</td>
+    <td>4 Years</td>
+  </tr>
+  <tr>
+    <td><img src="assets/ides/visualstudio.svg" alt="" width="24" height="24" /></td>
+    <td>Visual Studio</td>
+    <td>3+ Years</td>
+  </tr>
+  <tr>
+    <td><img src="assets/ides/intellij.svg" alt="" width="24" height="24" /></td>
+    <td>Jetbrains IntelliJ</td>
+    <td>3 Years</td>
+  </tr>
+  <tr>
+    <td><img src="assets/ides/eclipse.svg" alt="" width="24" height="24" /></td>
+    <td>Eclipse</td>
+    <td>5 Months</td>
+  </tr>
+  <tr>
+    <td><img src="assets/text-editors/vim.svg" alt="" width="24" height="24" /></td>
+    <td>Jetbrains IntelliJ</td>
+    <td>1 Year</td>
+  </tr>
+</table>
+
+<br />
+<p>And the text editors / IDEs that I've used</p>
+
+<table>
+  <tr>
+    <th></th>
+    <th>Design Software</th>
+    <th>Usage</th>
+  </tr>
+  <tr>
+    <td><img src="assets/text-editors/vscode.svg" alt="" width="24" height="24" /></td>
+    <td>Visual Studio Code</td>
+    <td>4 Years</td>
+  </tr>
+</table>
+</p>
+
+<b><u><i>// Only a man without ambitions thinks that a life without luxuries is fine</i></u></b>
