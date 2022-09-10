@@ -73,7 +73,7 @@
 </table>
 
 <br />
-<p>Here are databases that i used to work with</p>
+<p>Here are databases that I have used to work with</p>
 
 <table>
   <tr>
@@ -125,7 +125,7 @@
 </table>
 
 <br />
-<p>And the text editors / IDEs that I've used</p>
+<p>Some text editors / IDEs that I have used</p>
 
 <table>
   <tr>
@@ -214,5 +214,12 @@
   </tr>
 </table>
 </p>
+
+<br />
+<h2>GitHub Profile Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kevinbarcenas12&show_icons=true&theme=dracula&hide=stars,issues" alt="KevinBarcenas12's GitHub Stats" />
+<br />
+<br />
 
 <b><u><i>// Only a man without ambitions thinks that a life without luxuries is fine</i></u></b>
