@@ -2,7 +2,7 @@
 
 <h3>I'm a <i>Front-End Web Developer</i></h3>
 <p>
-  My goal is to become a <i>Full-Stack Web Developer</i>.
+  My goal is to become a <i>Full-Stack Web Developer</i> and start learning <i>Cybercecurity</i>.
   <br />
   At the time beeing, I'm a <i>Front-End</i> developer, but I like to learn new techniques, to use new programming languages and try new things.
   <br />
