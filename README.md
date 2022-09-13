@@ -15,6 +15,12 @@
   <br />
   Video editing on Premiere Pro, After Effects, Sony Vegas.
 </p>
+<p>
+  Quick Links:<br />
+   - <a href="https://linkedin.com/in/kevin-barcenas-23827a22b/">LinkedIn</a><br />
+   - <a href="https://kevinbarcenas12.github.io/">Personal Website</a><br />
+   - <a href="https://github.com/KevinBarcenas12/KevinBarcenas12/raw/main/assets/resume.pdf">Resume</a>
+</p>
 
 <h3>Some of the <mark>a</mark> tools <i> // </i> techs <i><b>)</b></i> I use</h3>
 <p>
