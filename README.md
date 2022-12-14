@@ -22,7 +22,7 @@
    - <a href="https://github.com/KevinBarcenas12/KevinBarcenas12/raw/main/assets/resume.pdf">Resume</a>
 </p>
 
-<h3>Some of the <mark>a</mark> tools <i> // </i> techs <i><b>)</b></i> I use</h3>
+<h3>Some of the <mark>a</mark> <i><b>(</b></i> tools <i> // </i> techs <i><b>)</b></i> I use</h3>
 <p>
   Since I jumped into programming, I've learned a bit from a couple languages.
   <br />
