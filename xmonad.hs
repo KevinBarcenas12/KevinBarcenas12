@@ -172,7 +172,7 @@ main = do
             return ()
         Nothing -> return ()
     xmonad $ defaultConfig 
-        { terminal           = "urxvt"
+        { terminal           = myTerminal
         , borderWidth        = 2
         , normalBorderColor  = "black"
         , focusedBorderColor = "orange"
