@@ -93,7 +93,7 @@
     <td>5 Months</td>
   </tr>
   <tr>
-    <td><img src="assets/databases/postresql.svg" alt="" width="24" height="24" /></td>
+    <td><img src="assets/databases/postgresql.svg" alt="" width="24" height="24" /></td>
     <td>PostgreSQL [Basic/Intermediate]</td>
     <td>4 Months</td>
   </tr>
