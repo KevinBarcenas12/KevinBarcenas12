@@ -39,22 +39,22 @@
   <tr>
     <td><img src="assets/languages/javascript.svg" alt="" width="24" height="24" /></td>
     <td>Javascript [Advanced]</td>
-    <td>4 Years</td>
+    <td>6 Years</td>
   </tr>
   <tr>
     <td><img src="assets/languages/typescript.svg" alt="" width="24" height="24" /></td>
     <td>Typescript [Advanced]</td>
-    <td>2+ Years</td>
+    <td>3+ Years</td>
   </tr>
   <tr>
     <td><img src="assets/languages/html5.svg" alt="" width="24" height="24" /></td>
     <td>HTML5 [Advanced]</td>
-    <td>4 Years</td>
+    <td>6 Years</td>
   </tr>
   <tr>
     <td><img src="assets/frameworks/react.svg" alt="" width="24" height="24" /></td>
     <td>React [Advanced]</td>
-    <td>3+ Years</td>
+    <td>4+ Years</td>
   </tr>
   <tr>
     <td><img src="assets/nodejs.svg" alt="" width="24" height="24" /></td>
@@ -64,7 +64,7 @@
   <tr>
     <td><img src="assets/languages/java.svg" alt="" width="24" height="24" /></td>
     <td>Java [Intermediate]</td>
-    <td>3 Years</td>
+    <td>2 Years</td>
   </tr>
   <tr>
     <td><img src="assets/languages/cpp.svg" alt="" width="24" height="24" /></td>
@@ -93,6 +93,11 @@
     <td>5 Months</td>
   </tr>
   <tr>
+    <td><img src="assets/databases/postresql.svg" alt="" width="24" height="24" /></td>
+    <td>PostgreSQL [Basic/Intermediate]</td>
+    <td>4 Months</td>
+  </tr>
+  <tr>
     <td><img src="assets/databases/mongodb.svg" alt="" width="24" height="24" /></td>
     <td>MongoDB [Basic/Intermediate]</td>
     <td>4 Months</td>
@@ -115,7 +120,7 @@
   </tr>
   <tr>
     <td><img src="assets/styles/sass.svg" alt="" width="24" height="24" /></td>
-    <td>Sass [Advanced]</td>
+    <td>SASS [Advanced]</td>
     <td>2+ Years</td>
   </tr>
   <tr>
@@ -142,7 +147,7 @@
   <tr>
     <td><img src="assets/text-editors/vscode.svg" alt="" width="24" height="24" /></td>
     <td>Visual Studio Code</td>
-    <td>4 Years</td>
+    <td>6 Years</td>
   </tr>
   <tr>
     <td><img src="assets/ides/visualstudio.svg" alt="" width="24" height="24" /></td>
@@ -180,13 +185,13 @@
     <td><img src="assets/design-software/aftereffects.svg" alt="" width="24" height="24" /></td>
     <td>After Effects</td>
     <td>Video Editing & Animations</td>
-    <td>5 Months</td>
+    <td>11 Months</td>
   </tr>
   <tr>
     <td><img src="assets/design-software/premierepro.svg" alt="" width="24" height="24" /></td>
     <td>Premiere Pro</td>
     <td>Video Editing</td>
-    <td>6 Months</td>
+    <td>8 Months</td>
   </tr>
   <tr>
     <td><img src="assets/design-software/illustrator.svg" alt="" width="24" height="24" /></td>
@@ -198,7 +203,7 @@
     <td><img src="assets/design-software/blender.svg" alt="" width="24" height="24" /></td>
     <td>Blender</td>
     <td>3D Modeling & Object recreation</td>
-    <td>6 Months</td>
+    <td>8 Months</td>
   </tr>
   <tr>
     <td><img src="assets/design-software/photoshop.svg" alt="" width="24" height="24" /></td>
