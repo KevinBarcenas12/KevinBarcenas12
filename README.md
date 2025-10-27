@@ -18,7 +18,7 @@
 <p>
   Quick Links:<br />
    - <a href="https://linkedin.com/in/kevin-barcenas-23827a22b/">LinkedIn</a><br />
-   - <a href="https://kevinbarcenas12.github.io/">Personal Website</a><br />
+   - <a href="https://barcenas.dev/">Personal Website</a><br />
    - <a href="https://github.com/KevinBarcenas12/KevinBarcenas12/raw/main/assets/resume.pdf">Resume</a>
 </p>
 
